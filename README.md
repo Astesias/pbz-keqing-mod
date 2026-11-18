@@ -60,7 +60,7 @@ Delete those 6 files — the game returns to vanilla.
 
 - 游戏版本：UE 5.7.4（IoStore），2026-11 测试通过
 - 与其他 `~mods` 子目录 mod 可共存（GoldenTiger、PBZAdditiveWardrobe 已验证）
-- 与 `WuchangVoice` 冲突（同为战斗语音）
+- 与其他战斗语音替换 mod 冲突（需二选一）
 
 ## 文件校验 / Checksums
 
