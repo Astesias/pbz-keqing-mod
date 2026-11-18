@@ -10,6 +10,10 @@ Replace the protagonist **Hun** in *Phantom Blade Zero* with **Keqing** from *Ge
 
 历史版本见 [Releases](https://github.com/Astesias/pbz-keqing-mod/releases)。
 
+## 截图 / Screenshots
+
+![screenshot](docs/screenshot_1.png)
+![screenshot](docs/screenshot_2.png)
 ## 特性 / Features
 
 | 项目 | 说明 |
