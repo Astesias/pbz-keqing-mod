@@ -4,6 +4,14 @@
 
 Replace the protagonist **Hun** in *Phantom Blade Zero* with **Keqing** from *Genshin Impact*, with Keqing's combat voice lines.
 
+## ⚠️ 免费声明 / Free
+
+本 Mod **完全免费**。如果你花钱买了 —— **你被骗了**，请退款并举报卖家。
+
+唯一原始发布处：**[bilibili · BV19ns86qEY6](https://www.bilibili.com/video/BV19ns86qEY6/)**
+（包内 `版权信息.txt` 有完整说明：允许免费转载与二次修改，禁止任何形式的付费售卖。）
+
+This mod is **free**. If you paid for it, you were scammed — request a refund and report the seller.
 ## 下载 / Download
 
 **[⬇ Keqing_Mod_2026.11.19.zip](https://github.com/Astesias/pbz-keqing-mod/releases/download/v2026.11.19/Keqing_Mod_2026.11.19.zip)** （8.75 MB）
